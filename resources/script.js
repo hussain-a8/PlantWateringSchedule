@@ -12,7 +12,7 @@ const plants = [
     { plant_id: 10, name: "Lavender", watering_frequency: 8 },
   ];
   
-  document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
     //initialise date manipulation functions from library
     const { addDays, format, isSaturday, isSunday } = dateFns;
   
