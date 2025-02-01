@@ -32,7 +32,7 @@ This project, created as part of Shivom Consultancy's Application Process, is a 
 - Adjust styles in `resources/styles.css`.
 
 ## **Live Demo**
-[Link to the GitHub Pages site](https://hussain-a8.github.io/plantwateringschedule/)
+[Link to the GitHub Pages site](https://hussain-a8.github.io/PlantWateringSchedule/)
 
 ## **Bonus Challenge**
 Add a feature where only three plants can be watered in a day. This will require a way of prioritising plants which have been shifted, as plants can only tolerate being watered a day earlier or later than what the watering frequency dictates. 
