@@ -28,11 +28,11 @@ This project, created as part of Shivom Consultancy's Application Process, is a 
 3. Open `index.html` in your browser.
 
 ## **Customization**
-- Modify `resources/plantsData.js` to add or update plants. Ensure to maintain the same format when adding new plants!
+- Modify the `plants` array at the start of script.js to add or update plants. Make sure to maintain the same format when adding new plants!
 - Adjust styles in `resources/styles.css`.
 
 ## **Live Demo**
-[Link to the GitHub Pages site](https://<your-username>.github.io/plant-watering-schedule/)
+[Link to the GitHub Pages site](https://hussain-a8.github.io/plantwateringschedule/)
 
 ## **Bonus Challenge**
 Add a feature where only three plants can be watered in a day. This will require a way of prioritising plants which have been shifted, as plants can only tolerate being watered a day earlier or later than what the watering frequency dictates. 
